@@ -47,5 +47,5 @@ To run this project:
 4. Use the saved model to predict anomalies on new traffic data
 
 ---
-Created by: *Your Name*
-Date: March 2025
+Created by: Krzysztof Stanisz
+Date: January 2025
